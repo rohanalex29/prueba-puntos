@@ -1,116 +1,1435 @@
 {
-"type": "FeatureCollection",
-"name": "COORD",
-"features": [
-{ "type": "Feature", "properties": { "SbjNum": 157694033, "Srvyr": "epi018", "X": -81.322566214999995, "Y": 8.016599225, "Status": "Approved", "VEnd": "2021-09-28T08:36:46" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157694158, "Srvyr": "epi020", "X": -80.96816877000001, "Y": 8.1134001, "Status": "Approved", "VEnd": "2021-09-28T08:39:41" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157694661, "Srvyr": "epi020", "X": -80.96823276000001, "Y": 8.11337523, "Status": "Approved", "VEnd": "2021-09-28T08:51:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157694818, "Srvyr": "epi018", "X": -81.32250039, "Y": 8.016733094, "Status": "Approved", "VEnd": "2021-09-28T08:55:51" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157695058, "Srvyr": "epi020", "X": -80.96819835, "Y": 8.11352315, "Status": "Requires Approval", "VEnd": "2021-09-28T09:01:29" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157695786, "Srvyr": "epi020", "X": -80.96791404, "Y": 8.11492296, "Status": "Requires Approval", "VEnd": "2021-09-28T09:15:05" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157696236, "Srvyr": "epi03", "X": -80.537866667000003, "Y": 8.241076667, "Status": "Approved", "VEnd": "2021-09-28T09:24:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157696580, "Srvyr": "epi018", "X": -81.324235766000001, "Y": 8.020256734, "Status": "Approved", "VEnd": "2021-09-28T09:32:04" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157696598, "Srvyr": "epi020", "X": -80.96805123, "Y": 8.11479708, "Status": "Requires Approval", "VEnd": "2021-09-28T09:32:30" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157696979, "Srvyr": "epi020", "X": -80.96756887, "Y": 8.11518077, "Status": "Requires Approval", "VEnd": "2021-09-28T09:41:05" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157697669, "Srvyr": "epi020", "X": -80.96752385000001, "Y": 8.11495934, "Status": "Requires Approval", "VEnd": "2021-09-28T09:55:05" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157698108, "Srvyr": "epi03", "X": -80.538886667, "Y": 8.245575, "Status": "Requires Approval", "VEnd": "2021-09-28T10:03:50" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157699247, "Srvyr": "epi018", "X": -81.323235132999997, "Y": 8.016620332, "Status": "Approved", "VEnd": "2021-09-28T10:24:50" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157699396, "Srvyr": "epi020", "X": -80.96754498, "Y": 8.11486073, "Status": "Requires Approval", "VEnd": "2021-09-28T10:26:51" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157699679, "Srvyr": "epi048", "X": -80.6506664, "Y": 8.4209715, "Status": "Approved", "VEnd": "2021-09-28T10:32:13" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700521, "Srvyr": "epi03", "X": -80.540378333000007, "Y": 8.23711, "Status": "Requires Approval", "VEnd": "2021-09-28T10:19:23" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700522, "Srvyr": "epi03", "X": -80.539101666999997, "Y": 8.239156667, "Status": "Requires Approval", "VEnd": "2021-09-28T10:46:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700623, "Srvyr": "epi049", "X": -80.6507605, "Y": 8.4209748, "Status": "Approved", "VEnd": "2021-09-28T10:48:59" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700642, "Srvyr": "epi048", "X": -80.6506643, "Y": 8.4209754, "Status": "Approved", "VEnd": "2021-09-28T10:49:32" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700783, "Srvyr": "epi020", "X": -80.96794473, "Y": 8.11489382, "Status": "Requires Approval", "VEnd": "2021-09-28T10:52:03" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157700973, "Srvyr": "epi018", "X": -81.323218584000003, "Y": 8.016691141000001, "Status": "Approved", "VEnd": "2021-09-28T10:55:09" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157701356, "Srvyr": "epi048", "X": -80.6506908, "Y": 8.4209766, "Status": "Approved", "VEnd": "2021-09-28T11:01:59" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157701425, "Srvyr": "epi049", "X": -80.6506277, "Y": 8.4209943, "Status": "Requires Approval", "VEnd": "2021-09-28T11:03:34" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157701453, "Srvyr": "epi03", "X": -80.53943, "Y": 8.24539, "Status": "Requires Approval", "VEnd": "2021-09-28T11:04:10" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157702254, "Srvyr": "epi020", "X": -80.9618248, "Y": 8.12813277, "Status": "Requires Approval", "VEnd": "2021-09-28T11:19:12" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157702283, "Srvyr": "epi018", "X": -81.322726308, "Y": 8.016670109, "Status": "Approved", "VEnd": "2021-09-28T11:19:42" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157702414, "Srvyr": "epi048", "X": -80.648161136, "Y": 8.423493226, "Status": "Approved", "VEnd": "2021-09-28T11:22:27" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157702540, "Srvyr": "epi049", "X": -80.648286064999994, "Y": 8.423250471, "Status": "Approved", "VEnd": "2021-09-28T11:24:11" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157703421, "Srvyr": "epi048", "X": -80.645636261000007, "Y": 8.424078522, "Status": "Requires Approval", "VEnd": "2021-09-28T11:41:54" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157703457, "Srvyr": "epi049", "X": -80.645689200999996, "Y": 8.424100373, "Status": "Approved", "VEnd": "2021-09-28T11:42:49" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157704146, "Srvyr": "epi049", "X": -80.646988, "Y": 8.4242259, "Status": "Requires Approval", "VEnd": "2021-09-28T11:50:12" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157706157, "Srvyr": "epi03", "X": -80.539383333000004, "Y": 8.245573333, "Status": "Requires Approval", "VEnd": "2021-09-28T12:30:45" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157706674, "Srvyr": "epi018", "X": -81.322540752999998, "Y": 8.016677515, "Status": "Approved", "VEnd": "2021-09-28T12:39:46" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157706953, "Srvyr": "epi048", "X": -80.5196141, "Y": 8.3440829, "Status": "Requires Approval", "VEnd": "2021-09-28T12:45:01" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157707114, "Srvyr": "epi049", "X": -80.5196644, "Y": 8.3437062, "Status": "Requires Approval", "VEnd": "2021-09-28T12:47:17" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157707240, "Srvyr": "epi018", "X": -81.322495106999995, "Y": 8.016754168, "Status": "Requires Approval", "VEnd": "2021-09-28T12:49:34" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157707954, "Srvyr": "epi048", "X": -80.5196305, "Y": 8.3439901, "Status": "Requires Approval", "VEnd": "2021-09-28T13:02:53" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157707962, "Srvyr": "epi049", "X": -80.5196159, "Y": 8.3440769, "Status": "Requires Approval", "VEnd": "2021-09-28T13:03:00" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157708033, "Srvyr": "epi03", "X": -80.539566667000003, "Y": 8.245403333000001, "Status": "Requires Approval", "VEnd": "2021-09-28T13:04:56" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157708983, "Srvyr": "epi048", "X": -80.520609889, "Y": 8.342641636, "Status": "Requires Approval", "VEnd": "2021-09-28T13:20:17" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157709032, "Srvyr": "epi049", "X": -80.5209286, "Y": 8.3427344, "Status": "Requires Approval", "VEnd": "2021-09-28T13:20:48" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157709475, "Srvyr": "epi018", "X": -81.322550468000003, "Y": 8.016617913, "Status": "Requires Approval", "VEnd": "2021-09-28T13:29:07" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157709558, "Srvyr": "epi049", "X": -80.5212267, "Y": 8.3425768, "Status": "Requires Approval", "VEnd": "2021-09-28T13:30:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157709600, "Srvyr": "epi048", "X": -80.5205193, "Y": 8.342632608000001, "Status": "Requires Approval", "VEnd": "2021-09-28T13:31:48" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157710301, "Srvyr": "epi049", "X": -80.5206059, "Y": 8.3414613, "Status": "Requires Approval", "VEnd": "2021-09-28T13:45:07" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157710348, "Srvyr": "epi048", "X": -80.5202919, "Y": 8.3429294, "Status": "Requires Approval", "VEnd": "2021-09-28T13:45:57" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711284, "Srvyr": "epi020", "X": -81.077481, "Y": 8.51116681, "Status": "Approved", "VEnd": "2021-09-28T14:03:22" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711487, "Srvyr": "epi048", "X": -80.5224924, "Y": 8.3387338, "Status": "Requires Approval", "VEnd": "2021-09-28T14:08:14" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711564, "Srvyr": "epi049", "X": -80.5219934, "Y": 8.3386738, "Status": "Requires Approval", "VEnd": "2021-09-28T14:10:22" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711780, "Srvyr": "epi019", "X": -80.9274773, "Y": 8.0457817, "Status": "Approved", "VEnd": "2021-09-28T12:03:54" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711781, "Srvyr": "epi019", "X": -80.9274978, "Y": 8.0457621, "Status": "Requires Approval", "VEnd": "2021-09-28T12:11:10" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157711782, "Srvyr": "epi019", "X": -80.934777792999995, "Y": 8.076353892, "Status": "Approved", "VEnd": "2021-09-28T12:34:04" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712151, "Srvyr": "epi019", "X": -80.934589453000001, "Y": 8.076655259000001, "Status": "Approved", "VEnd": "2021-09-28T14:21:59" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712475, "Srvyr": "epi020", "X": -81.07755454, "Y": 8.51115627, "Status": "Approved", "VEnd": "2021-09-28T14:27:14" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712538, "Srvyr": "epi019", "X": -80.9862673, "Y": 8.0842123, "Status": "Requires Approval", "VEnd": "2021-09-28T14:29:27" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712644, "Srvyr": "epi049", "X": -80.5225473, "Y": 8.3387456, "Status": "Requires Approval", "VEnd": "2021-09-28T14:31:19" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712795, "Srvyr": "epi020", "X": -81.04689535, "Y": 8.38061948, "Status": "Requires Approval", "VEnd": "2021-09-28T14:33:55" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157712849, "Srvyr": "epi019", "X": -80.9862844, "Y": 8.0842385, "Status": "Requires Approval", "VEnd": "2021-09-28T14:34:43" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157713091, "Srvyr": "epi048", "X": -80.5220993, "Y": 8.3386725, "Status": "Requires Approval", "VEnd": "2021-09-28T14:40:28" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157713237, "Srvyr": "epi020", "X": -81.07750074, "Y": 8.51186603, "Status": "Requires Approval", "VEnd": "2021-09-28T14:43:08" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157713470, "Srvyr": "epi018", "X": -81.322607996000002, "Y": 8.016507271, "Status": "Requires Approval", "VEnd": "2021-09-28T14:48:56" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157713756, "Srvyr": "epi020", "X": -81.07736771, "Y": 8.51192853, "Status": "Approved", "VEnd": "2021-09-28T14:53:34" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157713942, "Srvyr": "epi018", "X": -81.322588636000006, "Y": 8.016531428, "Status": "Approved", "VEnd": "2021-09-28T14:57:28" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157714460, "Srvyr": "epi020", "X": -81.07785445, "Y": 8.51176401, "Status": "Approved", "VEnd": "2021-09-28T15:07:27" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157714790, "Srvyr": "epi020", "X": -81.07748443, "Y": 8.51157478, "Status": "Requires Approval", "VEnd": "2021-09-28T15:15:10" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157715081, "Srvyr": "epi020", "X": -81.07731974, "Y": 8.51125008, "Status": "Requires Approval", "VEnd": "2021-09-28T15:20:48" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157715357, "Srvyr": "epi020", "X": -81.07765163000001, "Y": 8.51116861, "Status": "Requires Approval", "VEnd": "2021-09-28T15:27:19" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157715614, "Srvyr": "epi018", "X": -81.322559436999995, "Y": 8.016620652, "Status": "Requires Approval", "VEnd": "2021-09-28T15:33:29" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157715619, "Srvyr": "epi020", "X": -81.07760469, "Y": 8.5110248, "Status": "Requires Approval", "VEnd": "2021-09-28T15:33:39" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157715826, "Srvyr": "epi020", "X": -81.07757105, "Y": 8.51107652, "Status": "Requires Approval", "VEnd": "2021-09-28T15:39:40" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157716072, "Srvyr": "epi020", "X": -81.07719371, "Y": 8.51133699, "Status": "Requires Approval", "VEnd": "2021-09-28T15:44:58" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157716324, "Srvyr": "epi020", "X": -81.07759093, "Y": 8.51183434, "Status": "Requires Approval", "VEnd": "2021-09-28T15:52:05" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157716737, "Srvyr": "epi018", "X": -81.322575066, "Y": 8.01659409, "Status": "Requires Approval", "VEnd": "2021-09-28T16:01:33" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157716823, "Srvyr": "epi019", "X": -80.986471933000004, "Y": 8.084017344, "Status": "Approved", "VEnd": "2021-09-28T16:03:40" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157716874, "Srvyr": "epi020", "X": -81.06262976, "Y": 8.47985649, "Status": "Requires Approval", "VEnd": "2021-09-28T16:04:40" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157717160, "Srvyr": "epi019", "X": -80.9864004, "Y": 8.0842243, "Status": "Requires Approval", "VEnd": "2021-09-28T16:11:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157717570, "Srvyr": "epi019", "X": -80.9863937, "Y": 8.0842252, "Status": "Requires Approval", "VEnd": "2021-09-28T16:22:46" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157717784, "Srvyr": "epi019", "X": -80.9863937, "Y": 8.0842207, "Status": "Requires Approval", "VEnd": "2021-09-28T16:28:09" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157718251, "Srvyr": "epi018", "X": -81.322577724, "Y": 8.01688806, "Status": "Requires Approval", "VEnd": "2021-09-28T16:39:03" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157719105, "Srvyr": "epi049", "X": -80.5407341, "Y": 8.2363241, "Status": "Requires Approval", "VEnd": "2021-09-28T16:58:04" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157719360, "Srvyr": "epi018", "X": -81.322580630999994, "Y": 8.016547019000001, "Status": "Requires Approval", "VEnd": "2021-09-28T17:03:43" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157719489, "Srvyr": "epi049", "X": -80.5406879, "Y": 8.2364363, "Status": "Requires Approval", "VEnd": "2021-09-28T17:05:41" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157719793, "Srvyr": "epi016", "X": -80.433337541, "Y": 7.983485246, "Status": "Requires Approval", "VEnd": "2021-09-28T17:15:10" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720039, "Srvyr": "epi049", "X": -80.54057659, "Y": 8.23661876, "Status": "Requires Approval", "VEnd": "2021-09-28T17:21:44" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720331, "Srvyr": "epi016", "X": -80.43331036, "Y": 7.983375244, "Status": "Requires Approval", "VEnd": "2021-09-28T17:27:40" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720512, "Srvyr": "epi049", "X": -80.5407321, "Y": 8.2363301, "Status": "Requires Approval", "VEnd": "2021-09-28T17:31:46" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720540, "Srvyr": "epi018", "X": -81.32257789000001, "Y": 8.016571929, "Status": "Requires Approval", "VEnd": "2021-09-28T17:32:49" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720560, "Srvyr": "epi041", "X": -80.433435778000003, "Y": 7.983481122, "Status": "Approved", "VEnd": "2021-09-28T17:33:27" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720806, "Srvyr": "epi013", "X": -82.615724944999997, "Y": 8.502251468000001, "Status": "Approved", "VEnd": "2021-09-28T08:13:04" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720807, "Srvyr": "epi013", "X": -82.615084058999997, "Y": 8.502285735, "Status": "Approved", "VEnd": "2021-09-28T08:26:06" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720808, "Srvyr": "epi013", "X": -82.61490597, "Y": 8.500692557000001, "Status": "Approved", "VEnd": "2021-09-28T08:48:52" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720809, "Srvyr": "epi013", "X": -82.615862776, "Y": 8.500579538, "Status": "Approved", "VEnd": "2021-09-28T09:06:15" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157720850, "Srvyr": "epi049", "X": -80.5407299, "Y": 8.2363381, "Status": "Requires Approval", "VEnd": "2021-09-28T17:40:44" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721135, "Srvyr": "epi049", "X": -80.540734, "Y": 8.2363356, "Status": "Requires Approval", "VEnd": "2021-09-28T17:48:31" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721147, "Srvyr": "epi018", "X": -81.322582932000003, "Y": 8.016583636, "Status": "Requires Approval", "VEnd": "2021-09-28T17:48:55" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721224, "Srvyr": "epi041", "X": -80.432390874999996, "Y": 7.967567392, "Status": "Requires Approval", "VEnd": "2021-09-28T17:52:13" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721351, "Srvyr": "epi049", "X": -80.5407326, "Y": 8.2363313, "Status": "Requires Approval", "VEnd": "2021-09-28T17:56:25" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721455, "Srvyr": "epi019", "X": -80.9863865, "Y": 8.0842162, "Status": "Requires Approval", "VEnd": "2021-09-28T17:58:43" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721605, "Srvyr": "epi049", "X": -80.540507970999997, "Y": 8.236454656, "Status": "Requires Approval", "VEnd": "2021-09-28T18:01:39" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721680, "Srvyr": "epi019", "X": -80.9863874, "Y": 8.0842179, "Status": "Requires Approval", "VEnd": "2021-09-28T18:04:24" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157721971, "Srvyr": "epi019", "X": -80.986328774, "Y": 8.084091234000001, "Status": "Requires Approval", "VEnd": "2021-09-28T18:11:17" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157723089, "Srvyr": "epi016", "X": -80.432208505000006, "Y": 7.974026028, "Status": "Requires Approval", "VEnd": "2021-09-28T18:37:19" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157723097, "Srvyr": "epi041", "X": -80.432326963999998, "Y": 7.973884249, "Status": "Approved", "VEnd": "2021-09-28T18:37:29" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157723505, "Srvyr": "epi041", "X": -80.431728617000005, "Y": 7.973518447, "Status": "Requires Approval", "VEnd": "2021-09-28T18:47:54" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157723585, "Srvyr": "epi016", "X": -80.431673517999997, "Y": 7.973345126, "Status": "Approved", "VEnd": "2021-09-28T18:50:07" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157723759, "Srvyr": "epi018", "X": -81.322574731000003, "Y": 8.016587457, "Status": "Requires Approval", "VEnd": "2021-09-28T18:54:47" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157724482, "Srvyr": "epi018", "X": -81.322601871000003, "Y": 8.016521555000001, "Status": "Requires Approval", "VEnd": "2021-09-28T19:18:39" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157724535, "Srvyr": "epi041", "X": -80.435934622000005, "Y": 7.954034669, "Status": "Requires Approval", "VEnd": "2021-09-28T19:21:22" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157724915, "Srvyr": "epi018", "X": -81.322579448, "Y": 8.016552164, "Status": "Requires Approval", "VEnd": "2021-09-28T19:34:54" }, "geometry": null },
-{ "type": "Feature", "properties": { "SbjNum": 157725496, "Srvyr": "epi041", "X": -80.435499809000007, "Y": 7.954261897, "Status": "Requires Approval", "VEnd": "2021-09-28T19:51:18" }, "geometry": null }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322566215,8.016599225 ]
+    },
+    "properties": {
+    "SbjNum":157694033,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:36:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96816877,8.1134001 ]
+    },
+    "properties": {
+    "SbjNum":157694158,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:39:41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96823276,8.11337523 ]
+    },
+    "properties": {
+    "SbjNum":157694661,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:51:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.32250039,8.016733094 ]
+    },
+    "properties": {
+    "SbjNum":157694818,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:55:51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96819835,8.11352315 ]
+    },
+    "properties": {
+    "SbjNum":157695058,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 09:01:29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96791404,8.11492296 ]
+    },
+    "properties": {
+    "SbjNum":157695786,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 09:15:05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.537866667,8.241076667 ]
+    },
+    "properties": {
+    "SbjNum":157696236,
+    "Srvyr":"epi03",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 09:24:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.324235766,8.020256734 ]
+    },
+    "properties": {
+    "SbjNum":157696580,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 09:32:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96805123,8.11479708 ]
+    },
+    "properties": {
+    "SbjNum":157696598,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 09:32:30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96756887,8.11518077 ]
+    },
+    "properties": {
+    "SbjNum":157696979,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 09:41:05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96752385,8.11495934 ]
+    },
+    "properties": {
+    "SbjNum":157697669,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 09:55:05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.538886667,8.245575 ]
+    },
+    "properties": {
+    "SbjNum":157698108,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 10:03:50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.323235133,8.016620332 ]
+    },
+    "properties": {
+    "SbjNum":157699247,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 10:24:50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96754498,8.11486073 ]
+    },
+    "properties": {
+    "SbjNum":157699396,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 10:26:51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6506664,8.4209715 ]
+    },
+    "properties": {
+    "SbjNum":157699679,
+    "Srvyr":"epi048",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 10:32:13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.540378333,8.23711 ]
+    },
+    "properties": {
+    "SbjNum":157700521,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 10:19:23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.539101667,8.239156667 ]
+    },
+    "properties": {
+    "SbjNum":157700522,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 10:46:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6507605,8.4209748 ]
+    },
+    "properties": {
+    "SbjNum":157700623,
+    "Srvyr":"epi049",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 10:48:59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6506643,8.4209754 ]
+    },
+    "properties": {
+    "SbjNum":157700642,
+    "Srvyr":"epi048",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 10:49:32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.96794473,8.11489382 ]
+    },
+    "properties": {
+    "SbjNum":157700783,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 10:52:03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.323218584,8.016691141 ]
+    },
+    "properties": {
+    "SbjNum":157700973,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 10:55:09"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6506908,8.4209766 ]
+    },
+    "properties": {
+    "SbjNum":157701356,
+    "Srvyr":"epi048",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 11:01:59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6506277,8.4209943 ]
+    },
+    "properties": {
+    "SbjNum":157701425,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 11:03:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.53943,8.24539 ]
+    },
+    "properties": {
+    "SbjNum":157701453,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 11:04:10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9618248,8.12813277 ]
+    },
+    "properties": {
+    "SbjNum":157702254,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 11:19:12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322726308,8.016670109 ]
+    },
+    "properties": {
+    "SbjNum":157702283,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 11:19:42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.648161136,8.423493226 ]
+    },
+    "properties": {
+    "SbjNum":157702414,
+    "Srvyr":"epi048",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 11:22:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.648286065,8.423250471 ]
+    },
+    "properties": {
+    "SbjNum":157702540,
+    "Srvyr":"epi049",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 11:24:11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.645636261,8.424078522 ]
+    },
+    "properties": {
+    "SbjNum":157703421,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 11:41:54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.645689201,8.424100373 ]
+    },
+    "properties": {
+    "SbjNum":157703457,
+    "Srvyr":"epi049",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 11:42:49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.646988,8.4242259 ]
+    },
+    "properties": {
+    "SbjNum":157704146,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 11:50:12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.539383333,8.245573333 ]
+    },
+    "properties": {
+    "SbjNum":157706157,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 12:30:45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322540753,8.016677515 ]
+    },
+    "properties": {
+    "SbjNum":157706674,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 12:39:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5196141,8.3440829 ]
+    },
+    "properties": {
+    "SbjNum":157706953,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 12:45:01"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5196644,8.3437062 ]
+    },
+    "properties": {
+    "SbjNum":157707114,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 12:47:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322495107,8.016754168 ]
+    },
+    "properties": {
+    "SbjNum":157707240,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 12:49:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5196305,8.3439901 ]
+    },
+    "properties": {
+    "SbjNum":157707954,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:02:53"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5196159,8.3440769 ]
+    },
+    "properties": {
+    "SbjNum":157707962,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:03:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.539566667,8.245403333 ]
+    },
+    "properties": {
+    "SbjNum":157708033,
+    "Srvyr":"epi03",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:04:56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.520609889,8.342641636 ]
+    },
+    "properties": {
+    "SbjNum":157708983,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:20:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5209286,8.3427344 ]
+    },
+    "properties": {
+    "SbjNum":157709032,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:20:48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322550468,8.016617913 ]
+    },
+    "properties": {
+    "SbjNum":157709475,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:29:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5212267,8.3425768 ]
+    },
+    "properties": {
+    "SbjNum":157709558,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:30:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5205193,8.342632608 ]
+    },
+    "properties": {
+    "SbjNum":157709600,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:31:48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5206059,8.3414613 ]
+    },
+    "properties": {
+    "SbjNum":157710301,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:45:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5202919,8.3429294 ]
+    },
+    "properties": {
+    "SbjNum":157710348,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 13:45:57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.077481,8.51116681 ]
+    },
+    "properties": {
+    "SbjNum":157711284,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 14:03:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5224924,8.3387338 ]
+    },
+    "properties": {
+    "SbjNum":157711487,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:08:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5219934,8.3386738 ]
+    },
+    "properties": {
+    "SbjNum":157711564,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:10:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9274773,8.0457817 ]
+    },
+    "properties": {
+    "SbjNum":157711780,
+    "Srvyr":"epi019",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 12:03:54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9274978,8.0457621 ]
+    },
+    "properties": {
+    "SbjNum":157711781,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 12:11:10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.934777793,8.076353892 ]
+    },
+    "properties": {
+    "SbjNum":157711782,
+    "Srvyr":"epi019",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 12:34:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.934589453,8.076655259 ]
+    },
+    "properties": {
+    "SbjNum":157712151,
+    "Srvyr":"epi019",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 14:21:59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07755454,8.51115627 ]
+    },
+    "properties": {
+    "SbjNum":157712475,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 14:27:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9862673,8.0842123 ]
+    },
+    "properties": {
+    "SbjNum":157712538,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:29:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5225473,8.3387456 ]
+    },
+    "properties": {
+    "SbjNum":157712644,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:31:19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.04689535,8.38061948 ]
+    },
+    "properties": {
+    "SbjNum":157712795,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:33:55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9862844,8.0842385 ]
+    },
+    "properties": {
+    "SbjNum":157712849,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:34:43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5220993,8.3386725 ]
+    },
+    "properties": {
+    "SbjNum":157713091,
+    "Srvyr":"epi048",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:40:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07750074,8.51186603 ]
+    },
+    "properties": {
+    "SbjNum":157713237,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:43:08"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322607996,8.016507271 ]
+    },
+    "properties": {
+    "SbjNum":157713470,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 14:48:56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07736771,8.51192853 ]
+    },
+    "properties": {
+    "SbjNum":157713756,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 14:53:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322588636,8.016531428 ]
+    },
+    "properties": {
+    "SbjNum":157713942,
+    "Srvyr":"epi018",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 14:57:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07785445,8.51176401 ]
+    },
+    "properties": {
+    "SbjNum":157714460,
+    "Srvyr":"epi020",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 15:07:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07748443,8.51157478 ]
+    },
+    "properties": {
+    "SbjNum":157714790,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:15:10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07731974,8.51125008 ]
+    },
+    "properties": {
+    "SbjNum":157715081,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:20:48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07765163,8.51116861 ]
+    },
+    "properties": {
+    "SbjNum":157715357,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:27:19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322559437,8.016620652 ]
+    },
+    "properties": {
+    "SbjNum":157715614,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:33:29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07760469,8.5110248 ]
+    },
+    "properties": {
+    "SbjNum":157715619,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:33:39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07757105,8.51107652 ]
+    },
+    "properties": {
+    "SbjNum":157715826,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:39:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07719371,8.51133699 ]
+    },
+    "properties": {
+    "SbjNum":157716072,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:44:58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.07759093,8.51183434 ]
+    },
+    "properties": {
+    "SbjNum":157716324,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 15:52:05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322575066,8.01659409 ]
+    },
+    "properties": {
+    "SbjNum":157716737,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:01:33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.986471933,8.084017344 ]
+    },
+    "properties": {
+    "SbjNum":157716823,
+    "Srvyr":"epi019",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 16:03:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.06262976,8.47985649 ]
+    },
+    "properties": {
+    "SbjNum":157716874,
+    "Srvyr":"epi020",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:04:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9864004,8.0842243 ]
+    },
+    "properties": {
+    "SbjNum":157717160,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:11:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9863937,8.0842252 ]
+    },
+    "properties": {
+    "SbjNum":157717570,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:22:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9863937,8.0842207 ]
+    },
+    "properties": {
+    "SbjNum":157717784,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:28:09"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322577724,8.01688806 ]
+    },
+    "properties": {
+    "SbjNum":157718251,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:39:03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5407341,8.2363241 ]
+    },
+    "properties": {
+    "SbjNum":157719105,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 16:58:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322580631,8.016547019 ]
+    },
+    "properties": {
+    "SbjNum":157719360,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:03:43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5406879,8.2364363 ]
+    },
+    "properties": {
+    "SbjNum":157719489,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:05:41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.433337541,7.983485246 ]
+    },
+    "properties": {
+    "SbjNum":157719793,
+    "Srvyr":"epi016",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:15:10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54057659,8.23661876 ]
+    },
+    "properties": {
+    "SbjNum":157720039,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:21:44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.43331036,7.983375244 ]
+    },
+    "properties": {
+    "SbjNum":157720331,
+    "Srvyr":"epi016",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:27:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5407321,8.2363301 ]
+    },
+    "properties": {
+    "SbjNum":157720512,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:31:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.32257789,8.016571929 ]
+    },
+    "properties": {
+    "SbjNum":157720540,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:32:49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.433435778,7.983481122 ]
+    },
+    "properties": {
+    "SbjNum":157720560,
+    "Srvyr":"epi041",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 17:33:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.615724945,8.502251468 ]
+    },
+    "properties": {
+    "SbjNum":157720806,
+    "Srvyr":"epi013",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:13:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.615084059,8.502285735 ]
+    },
+    "properties": {
+    "SbjNum":157720807,
+    "Srvyr":"epi013",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:26:06"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.61490597,8.500692557 ]
+    },
+    "properties": {
+    "SbjNum":157720808,
+    "Srvyr":"epi013",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 08:48:52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.615862776,8.500579538 ]
+    },
+    "properties": {
+    "SbjNum":157720809,
+    "Srvyr":"epi013",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 09:06:15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5407299,8.2363381 ]
+    },
+    "properties": {
+    "SbjNum":157720850,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:40:44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.540734,8.2363356 ]
+    },
+    "properties": {
+    "SbjNum":157721135,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:48:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322582932,8.016583636 ]
+    },
+    "properties": {
+    "SbjNum":157721147,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:48:55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.432390875,7.967567392 ]
+    },
+    "properties": {
+    "SbjNum":157721224,
+    "Srvyr":"epi041",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:52:13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5407326,8.2363313 ]
+    },
+    "properties": {
+    "SbjNum":157721351,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:56:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9863865,8.0842162 ]
+    },
+    "properties": {
+    "SbjNum":157721455,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 17:58:43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.540507971,8.236454656 ]
+    },
+    "properties": {
+    "SbjNum":157721605,
+    "Srvyr":"epi049",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:01:39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9863874,8.0842179 ]
+    },
+    "properties": {
+    "SbjNum":157721680,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:04:24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.986328774,8.084091234 ]
+    },
+    "properties": {
+    "SbjNum":157721971,
+    "Srvyr":"epi019",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:11:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.432208505,7.974026028 ]
+    },
+    "properties": {
+    "SbjNum":157723089,
+    "Srvyr":"epi016",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:37:19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.432326964,7.973884249 ]
+    },
+    "properties": {
+    "SbjNum":157723097,
+    "Srvyr":"epi041",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 18:37:29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.431728617,7.973518447 ]
+    },
+    "properties": {
+    "SbjNum":157723505,
+    "Srvyr":"epi041",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:47:54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.431673518,7.973345126 ]
+    },
+    "properties": {
+    "SbjNum":157723585,
+    "Srvyr":"epi016",
+    "Status":"Approved",
+    "VEnd":"09/28/2021 18:50:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322574731,8.016587457 ]
+    },
+    "properties": {
+    "SbjNum":157723759,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 18:54:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322601871,8.016521555 ]
+    },
+    "properties": {
+    "SbjNum":157724482,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 19:18:39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.435934622,7.954034669 ]
+    },
+    "properties": {
+    "SbjNum":157724535,
+    "Srvyr":"epi041",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 19:21:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.322579448,8.016552164 ]
+    },
+    "properties": {
+    "SbjNum":157724915,
+    "Srvyr":"epi018",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 19:34:54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.435499809,7.954261897 ]
+    },
+    "properties": {
+    "SbjNum":157725496,
+    "Srvyr":"epi041",
+    "Status":"Requires Approval",
+    "VEnd":"09/28/2021 19:51:18"
+    }
+  }
 ]
 }
