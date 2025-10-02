@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "001",
+        "Srvyr": "Ana",
+        "Status": "Complete",
+        "VEnd": "2025-09-30T14:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.456, 8.123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "002",
+        "Srvyr": "Luis",
+        "Status": "Pending",
+        "VEnd": "2025-10-01T09:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.500, 8.200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "003",
+        "Srvyr": "Marta",
+        "Status": "Complete",
+        "VEnd": "2025-10-02T11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.600, 8.250]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "004",
+        "Srvyr": "Carlos",
+        "Status": "Incomplete",
+        "VEnd": "2025-10-03T13:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.700, 8.300]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "005",
+        "Srvyr": "Ana",
+        "Status": "Complete",
+        "VEnd": "2025-10-04T15:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.800, 8.350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "006",
+        "Srvyr": "Luis",
+        "Status": "Pending",
+        "VEnd": "2025-10-05T10:20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.850, 8.400]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "007",
+        "Srvyr": "Marta",
+        "Status": "Complete",
+        "VEnd": "2025-10-06T12:10:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.900, 8.450]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "008",
+        "Srvyr": "Carlos",
+        "Status": "Incomplete",
+        "VEnd": "2025-10-07T14:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.950, 8.500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "009",
+        "Srvyr": "Ana",
+        "Status": "Complete",
+        "VEnd": "2025-10-08T16:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.000, 8.550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SbjNum": "010",
+        "Srvyr": "Luis",
+        "Status": "Pending",
+        "VEnd": "2025-10-09T09:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.050, 8.600]
+      }
+    }
+  ]
+}
