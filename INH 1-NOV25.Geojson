@@ -1,0 +1,1270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Roxana Fernández Diaz",
+        "edad": 37,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 01:08 PM",
+        "latitude": -11.941209,
+        "longitude": -77.054886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.054886, -11.941209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "1",
+        "edad": 21,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 05:37 PM",
+        "latitude": -12.149287,
+        "longitude": -77.016953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016953, -12.149287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Lucia morau",
+        "edad": 22,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 05:45 PM",
+        "latitude": -12.149133,
+        "longitude": -77.016736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016736, -12.149133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Judith quiro",
+        "edad": 44,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 06:11 PM",
+        "latitude": -12.14801,
+        "longitude": -77.016235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016235, -12.14801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Araceli sparrow",
+        "edad": 30,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 06:27 PM",
+        "latitude": -12.148106,
+        "longitude": -77.016573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016573, -12.148106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Gisela flores",
+        "edad": 47,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 06:30 PM",
+        "latitude": -12.148118,
+        "longitude": -77.016507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016507, -12.148118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Lady Yarango",
+        "edad": 35,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 07:23 PM",
+        "latitude": -11.837983,
+        "longitude": -77.044532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.044532, -11.837983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Mirtha Otiniano",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 07:46 PM",
+        "latitude": -11.839737,
+        "longitude": -77.045733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.045733, -11.839737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Deysi Díaz Amaya",
+        "edad": 29,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 07:58 PM",
+        "latitude": -11.803316,
+        "longitude": -77.143223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.143223, -11.803316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Clariza Acuña Perez",
+        "edad": 43,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:04 PM",
+        "latitude": -11.940485,
+        "longitude": -77.056202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.056202, -11.940485]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Fatima",
+        "edad": 25,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:02 PM",
+        "latitude": -12.148103,
+        "longitude": -77.016484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.016484, -12.148103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Nicolle vigil",
+        "edad": 26,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:35 PM",
+        "latitude": -12.148604,
+        "longitude": -77.017901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.017901, -12.148604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Lucinda Irrivarren",
+        "edad": 33,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:38 PM",
+        "latitude": -11.839806,
+        "longitude": -77.045952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.045952, -11.839806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Emily Pereyra Sanchez",
+        "edad": 23,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:44 PM",
+        "latitude": -11.944288,
+        "longitude": -77.055826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055826, -11.944288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Medalit Vílchez Mireles",
+        "edad": 42,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:45 PM",
+        "latitude": -11.803131,
+        "longitude": -77.14351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.14351, -11.803131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Giovanna Zúñiga Hernández",
+        "edad": 49,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 08:47 PM",
+        "latitude": -11.802219,
+        "longitude": -77.14339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.14339, -11.802219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Susan Plascencia",
+        "edad": 34,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:56 PM",
+        "latitude": -12.148638,
+        "longitude": -77.017758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.017758, -12.148638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Sabrina Mendoza",
+        "edad": 27,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 08:56 PM",
+        "latitude": -11.838679,
+        "longitude": -77.046566
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046566, -11.838679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Hazmin Apagueño Flores",
+        "edad": 27,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 09:01 PM",
+        "latitude": -11.802344,
+        "longitude": -77.143676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.143676, -11.802344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Maria Galán Pazo",
+        "edad": 46,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 09:07 PM",
+        "latitude": -11.943663,
+        "longitude": -77.053899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.053899, -11.943663]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Yumico itumura",
+        "edad": 18,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 09:17 PM",
+        "latitude": -12.148017,
+        "longitude": -77.019059
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.019059, -12.148017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Dora Cisneros",
+        "edad": 35,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 09:32 PM",
+        "latitude": -11.837631,
+        "longitude": -77.04376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.04376, -11.837631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Mercedes Estefany chiroque ocampo",
+        "edad": 28,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 09:42 PM",
+        "latitude": -12.08555,
+        "longitude": -77.044054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.044054, -12.08555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Victoria",
+        "edad": 50,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 09:49 PM",
+        "latitude": -11.839677,
+        "longitude": -77.044791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.044791, -11.839677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Rosa Rodriguez",
+        "edad": 45,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 09:55 PM",
+        "latitude": -12.169907,
+        "longitude": -76.962852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.962852, -12.169907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Giovanna Arteaga",
+        "edad": 47,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 09:58 PM",
+        "latitude": -11.943587,
+        "longitude": -77.053868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.053868, -11.943587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Maria Elena Peralta Loa",
+        "edad": 34,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:00 PM",
+        "latitude": -11.801225,
+        "longitude": -77.142588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.142588, -11.801225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Lucero Domínguez",
+        "edad": 23,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:01 PM",
+        "latitude": -12.198889,
+        "longitude": -76.953625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.953625, -12.198889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Nelly Llamoca",
+        "edad": 30,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:01 PM",
+        "latitude": -11.839442,
+        "longitude": -77.046088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046088, -11.839442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Gabriela alvarez",
+        "edad": 26,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:07 PM",
+        "latitude": -12.170906,
+        "longitude": -76.963806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.963806, -12.170906]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Luz valladares",
+        "edad": 32,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:11 PM",
+        "latitude": -12.148646,
+        "longitude": -77.018464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.018464, -12.148646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Sandy carrion",
+        "edad": 34,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:13 PM",
+        "latitude": -11.839633,
+        "longitude": -77.046125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046125, -11.839633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Karla miranda",
+        "edad": 40,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:19 PM",
+        "latitude": -12.146034,
+        "longitude": -77.017219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.017219, -12.146034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Alexandra honores",
+        "edad": 30,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:23 PM",
+        "latitude": -12.171107,
+        "longitude": -76.963694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.963694, -12.171107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Rosa calle",
+        "edad": 39,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 10:37 PM",
+        "latitude": -12.144475,
+        "longitude": -77.015777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015777, -12.144475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Cristina Orihuela de Barreto",
+        "edad": 48,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:40 PM",
+        "latitude": -11.801243,
+        "longitude": -77.142554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.142554, -11.801243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Lucian Sanchez",
+        "edad": 42,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 10:41 PM",
+        "latitude": -12.144462,
+        "longitude": -77.015802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015802, -12.144462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Anel Yamile Castañeda rios",
+        "edad": 23,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:43 PM",
+        "latitude": -12.198413,
+        "longitude": -76.954405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.954405, -12.198413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Milagros ortiz",
+        "edad": 50,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 10:44 PM",
+        "latitude": -12.171139,
+        "longitude": -76.963903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.963903, -12.171139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Irma ramos",
+        "edad": 42,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:51 PM",
+        "latitude": -11.837905,
+        "longitude": -77.049329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.049329, -11.837905]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Lidia leon",
+        "edad": 26,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 10:53 PM",
+        "latitude": -12.19803,
+        "longitude": -76.955185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.955185, -12.19803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Estaría paz",
+        "edad": 42,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 10:58 PM",
+        "latitude": -12.144624,
+        "longitude": -77.015649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015649, -12.144624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Cecilia del Pilar Saldaña",
+        "edad": 35,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:00 PM",
+        "latitude": -11.802475,
+        "longitude": -77.142867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.142867, -11.802475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Monica",
+        "edad": 50,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 11:01 PM",
+        "latitude": -12.144511,
+        "longitude": -77.015721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015721, -12.144511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Yoselin Zavala",
+        "edad": 22,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:03 PM",
+        "latitude": -11.837343,
+        "longitude": -77.046461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046461, -11.837343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Gisell mitac",
+        "edad": 27,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:10 PM",
+        "latitude": -12.170581,
+        "longitude": -76.967324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.967324, -12.170581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Gianina Villa La Rosa",
+        "edad": 36,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:12 PM",
+        "latitude": -11.93917,
+        "longitude": -77.055241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055241, -11.93917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Adriana Kamill Cabezas Belasquez",
+        "edad": 18,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:13 PM",
+        "latitude": -12.054499,
+        "longitude": -77.004593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004593, -12.054499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Iris Pecho Barrientos",
+        "edad": 36,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:15 PM",
+        "latitude": -11.802253,
+        "longitude": -77.14327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.14327, -11.802253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Rosa Catamayo Regimaldo",
+        "edad": 36,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:16 PM",
+        "latitude": -12.054565,
+        "longitude": -77.004616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004616, -12.054565]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Geraldine romero balboa sanchez",
+        "edad": 24,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:23 PM",
+        "latitude": -12.170229,
+        "longitude": -76.967206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.967206, -12.170229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Rosa Urbano Corrales",
+        "NOM": "Ayelen Zurita",
+        "edad": 20,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:29 PM",
+        "latitude": -11.837339,
+        "longitude": -77.046458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046458, -11.837339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Jeny mateo",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:31 PM",
+        "latitude": -12.197751,
+        "longitude": -76.954895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.954895, -12.197751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Janet Sánchez",
+        "edad": 39,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 11:31 PM",
+        "latitude": -12.142883,
+        "longitude": -77.015896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015896, -12.142883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Shanya Romero Romero",
+        "edad": 22,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:33 PM",
+        "latitude": -12.054472,
+        "longitude": -77.004522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004522, -12.054472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Nataly pianto",
+        "edad": 30,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:38 PM",
+        "latitude": -12.17003,
+        "longitude": -76.966781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.966781, -12.17003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Patricia",
+        "edad": 37,
+        "CLA": "Filtro",
+        "submission_time": "01-11-2025 11:40 PM",
+        "latitude": -12.14416,
+        "longitude": -77.015234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.015234, -12.14416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Maria Luisa Ramos Paredes",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:40 PM",
+        "latitude": -11.935779,
+        "longitude": -77.055483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055483, -11.935779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Nicole ismodes Munives",
+        "edad": 24,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:42 PM",
+        "latitude": -11.803466,
+        "longitude": -77.143108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.143108, -11.803466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Sucllo",
+        "NOM": "Rocíos liñan",
+        "edad": 45,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:43 PM",
+        "latitude": -12.136915,
+        "longitude": -77.01741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.01741, -12.136915]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Gabriela garcia",
+        "edad": 35,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:49 PM",
+        "latitude": -12.169972,
+        "longitude": -76.965636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.965636, -12.169972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Lucila",
+        "edad": 47,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:55 PM",
+        "latitude": -12.053759,
+        "longitude": -77.004445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004445, -12.053759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Ana Bendezú rojas",
+        "edad": 48,
+        "CLA": "Aceptación",
+        "submission_time": "01-11-2025 11:58 PM",
+        "latitude": -12.198665,
+        "longitude": -76.954312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.954312, -12.198665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Maria",
+        "edad": 36,
+        "CLA": "Rechazo",
+        "submission_time": "01-11-2025 11:59 PM",
+        "latitude": -12.198733,
+        "longitude": -76.954122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.954122, -12.198733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Blanca Colan",
+        "edad": 42,
+        "CLA": "Rechazo",
+        "submission_time": "02-11-2025 12:09 AM",
+        "latitude": -12.053917,
+        "longitude": -77.004466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004466, -12.053917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Susana ortiz terrones",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 12:15 AM",
+        "latitude": -12.172187,
+        "longitude": -76.968998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.968998, -12.172187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Valeria Yslado",
+        "edad": 22,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 12:28 AM",
+        "latitude": -11.93622,
+        "longitude": -77.055709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055709, -11.93622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Yanet Carolina Ávila Sotomayor",
+        "edad": 27,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 12:33 AM",
+        "latitude": -12.053822,
+        "longitude": -77.004577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004577, -12.053822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Kadith gamnoa Najar",
+        "edad": 25,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 12:44 AM",
+        "latitude": -12.054113,
+        "longitude": -77.004578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004578, -12.054113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Rebeca Juana",
+        "edad": 42,
+        "CLA": "Rechazo",
+        "submission_time": "02-11-2025 12:56 AM",
+        "latitude": -12.054355,
+        "longitude": -77.004571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.004571, -12.054355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Kiara leidy Vasquez",
+        "edad": 22,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 01:23 AM",
+        "latitude": -12.199874,
+        "longitude": -76.954083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.954083, -12.199874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel Nastares",
+        "NOM": "Madeleine Conde Olivos",
+        "edad": 38,
+        "CLA": "Rechazo",
+        "submission_time": "02-11-2025 01:06 AM",
+        "latitude": -12.05387,
+        "longitude": -77.005139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.005139, -12.05387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz Villanueva",
+        "NOM": "Katherin Soncco Huarancca",
+        "edad": 27,
+        "CLA": "Rechazo",
+        "submission_time": "02-11-2025 01:08 AM",
+        "latitude": -11.938994,
+        "longitude": -77.055039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055039, -11.938994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Julia Quito Paredes",
+        "NOM": "Cinthia Castillo Calle",
+        "edad": 43,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 01:09 AM",
+        "latitude": -11.803541,
+        "longitude": -77.143042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.143042, -11.803541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "NOM": "Rosalia duran",
+        "edad": 39,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 01:11 AM",
+        "latitude": -12.163224,
+        "longitude": -76.977578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.977578, -12.163224]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "ENC": " Luz Rugel Nastares",
+        "NOM": "Brigitte",
+        "edad": 30,
+        "CLA": " Rechazo",
+        "submission_time": "02-11-2025 01:59 AM",
+        "latitude": -12.054201,
+        "longitude": -77.001915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.001915, -12.054201]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": " Luz Rugel Nastares",
+        "NOM": "Jenifer Chaves",
+        "edad": 33,
+        "CLA": " Rechazo",
+        "submission_time": "02-11-2025 2:08 AM",
+        "latitude": -12.052858,
+        "longitude": -77.005005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.005005, -12.052858]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": " Consuelo Díaz Villanueva",
+        "NOM": "Yahaira Chavez",
+        "edad": 33,
+        "CLA": "Rechazo",
+        "submission_time": "02-11-2025 2:30 AM",
+        "latitude": -11.939009,
+        "longitude": -77.055041
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055041, -11.939009]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": " Consuelo Díaz Villanueva",
+        "NOM": "Marcela Ortiz Santiago",
+        "edad": 19,
+        "CLA": "Aceptación",
+        "submission_time": "02-11-2025 3:10 AM",
+        "latitude": -11.938147,
+        "longitude": -77.05518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.05518, -11.938147]
+      }
+    }
+  ]
+}
