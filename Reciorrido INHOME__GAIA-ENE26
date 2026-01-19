@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Domínguez",
+        "Tipo": "Recorrido",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.049268, -11.973389],
+          [-77.049854, -11.973945],
+          [-77.050152, -11.974022],
+          [-77.050583, -11.974323],
+          [-77.050985, -11.972762],
+          [-77.049172, -11.973706],
+          [-77.049183, -11.973229],
+          [-77.048536, -11.973088],
+          [-77.046929, -11.972155],
+          [-77.04712, -11.971747]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.058741, -11.9405],
+          [-77.05637, -11.939331],
+          [-77.056036, -11.938617],
+          [-77.053977, -11.943349],
+          [-77.053995, -11.943375],
+          [-77.054559, -11.943703],
+          [-77.054379, -11.943191]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.12267, -11.971043],
+          [-77.122173, -11.971534],
+          [-77.11837, -11.970916],
+          [-77.118386, -11.97101],
+          [-77.118778, -11.971039],
+          [-77.118252, -11.970393]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Flor Alfaro",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.976883, -12.163169],
+          [-76.977033, -12.162736],
+          [-76.977582, -12.161947],
+          [-76.977726, -12.161927],
+          [-76.976405, -12.163152],
+          [-76.97654, -12.160883],
+          [-76.976542, -12.163884]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Jesica cueva",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.041037, -12.085643],
+          [-77.043005, -12.086267],
+          [-77.027363, -12.083097],
+          [-77.029312, -12.083422]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Laura Zapata",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.069026, -12.03229],
+          [-77.07045, -12.032337],
+          [-77.071602, -12.033399],
+          [-77.073105, -12.034059],
+          [-77.074673, -12.032911],
+          [-77.074653, -12.03292]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.954124, -12.19966],
+          [-76.95377, -12.200352],
+          [-76.952695, -12.201311],
+          [-76.952863, -12.201863],
+          [-76.952488, -12.202087],
+          [-76.953685, -12.198975],
+          [-76.953372, -12.199345],
+          [-76.953386, -12.202828]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.005496, -12.053139],
+          [-77.004459, -12.053891],
+          [-77.003919, -12.051388],
+          [-77.003784, -12.051287]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.968317, -12.146704],
+          [-76.967373, -12.145961],
+          [-76.967782, -12.146115],
+          [-76.966914, -12.145414],
+          [-76.966925, -12.145001]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.949652, -12.05613],
+          [-76.948761, -12.053974],
+          [-76.948061, -12.053524],
+          [-76.948248, -12.054758],
+          [-76.948397, -12.055397]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.014778, -12.115734],
+          [-77.015053, -12.115648],
+          [-77.01376, -12.115168],
+          [-77.014487, -12.115113],
+          [-77.013437, -12.114166],
+          [-77.014875, -12.11573]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yovana Milart",
+        "Tipo": "Recorrido",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-77.138489, -12.063286],
+          [-77.138501, -12.063224],
+          [-77.138626, -12.063828],
+          [-77.138509, -12.06321]
+        ]
+      }
+    }
+  ]
+}
