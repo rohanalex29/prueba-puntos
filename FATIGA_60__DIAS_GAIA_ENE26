@@ -1,0 +1,733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "Angela Ayaucan De la Cruz",
+        "edad": 35,
+        "CLA": "Aceptación",
+        "submission_time": "46038.551168981481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.975904, -12.14986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Sonia Ledesma",
+        "edad": 48,
+        "CLA": "Aceptación",
+        "submission_time": "46038.618923611109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.134929, -11.942318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "IRIS MIRTA PRECIADO DE LA CRUZ",
+        "edad": 50,
+        "CLA": "Aceptación",
+        "submission_time": "46038.621331018519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.966792, -12.145357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Sandra Ortiz",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "46038.645983796298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.134556, -11.942732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Angely castillo",
+        "edad": 24,
+        "CLA": "Aceptación",
+        "submission_time": "46038.647604166668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.953101, -12.201241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Marlene",
+        "edad": 48,
+        "CLA": "Filtro",
+        "submission_time": "46038.653877314813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.047473, -11.972801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Jesica cueva",
+        "NOM": "Marlene vivanco",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "46038.660057870373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.022133, -12.166448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "Jenny tejada medina",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "46038.660219907397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.967685, -12.146202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Grace",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "46038.66609953704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.048817, -11.973185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Mercedes ponte",
+        "edad": 34,
+        "CLA": "Aceptación",
+        "submission_time": "46038.668541666673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.13497, -11.943028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Miriam",
+        "edad": 28,
+        "CLA": "Filtro",
+        "submission_time": "46038.670439814807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.049218, -11.973664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Mary cuevas",
+        "edad": 44,
+        "CLA": "Aceptación",
+        "submission_time": "46038.675115740742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.135208, -11.942966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "Briggithe Blas Lermo",
+        "edad": 33,
+        "CLA": "Aceptación",
+        "submission_time": "46038.679340277777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9668, -12.144871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Katherine",
+        "edad": 18,
+        "CLA": "Aceptación",
+        "submission_time": "46038.681840277779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.048616, -11.973113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yovana Milart",
+        "NOM": "Deysi Rumay",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "46038.686909722222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.138129, -12.062808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Sarita alonzo",
+        "edad": 29,
+        "CLA": "Aceptación",
+        "submission_time": "46038.68990740741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.135728, -11.942707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Jhiselle milla",
+        "edad": 30,
+        "CLA": "Aceptación",
+        "submission_time": "46038.692071759258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.952992, -12.202981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Jesica cueva",
+        "NOM": "Sara risco",
+        "edad": 45,
+        "CLA": "Aceptación",
+        "submission_time": "46038.692662037043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.021914, -12.167902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Edda Sannes",
+        "NOM": "Mia García",
+        "edad": 18,
+        "CLA": "Aceptación",
+        "submission_time": "46038.696828703702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.135709, -11.942696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "NOM": "Lucinda moreno",
+        "edad": 35,
+        "CLA": "Aceptación",
+        "submission_time": "46038.697395833333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.051727, -12.06255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yovana Milart",
+        "NOM": "Yuliana vargas",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "46038.702349537038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.137609, -12.063452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yovana Milart",
+        "NOM": "Janet sanchez",
+        "edad": 29,
+        "CLA": "Aceptación",
+        "submission_time": "46038.711886574078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.138429, -12.063619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "Mía Rosales",
+        "edad": 18,
+        "CLA": "Aceptación",
+        "submission_time": "46038.713912037027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.968461, -12.146892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "NOM": "Iris grandes",
+        "edad": 50,
+        "CLA": "Aceptación",
+        "submission_time": "46038.714085648149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.052095, -12.062896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "NOM": "Anabel Cornelio Janampa",
+        "edad": 39,
+        "CLA": "Aceptación",
+        "submission_time": "46038.714363425926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.056331, -11.944176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Marilú maita",
+        "edad": 33,
+        "CLA": "Filtro",
+        "submission_time": "46038.720509259263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.952904, -12.204503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "NOM": "Maritza flores",
+        "edad": 44,
+        "CLA": "Aceptación",
+        "submission_time": "46038.724780092591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.050405, -12.062312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "NOM": "Rosario Aquino",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "46038.731516203698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.947144, -12.054116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Laura Zapata",
+        "NOM": "Xiomara Rubina",
+        "edad": 21,
+        "CLA": "Aceptación",
+        "submission_time": "46038.744120370371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.070876, -12.032365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "NOM": "Katia Díaz Silva",
+        "edad": 26,
+        "CLA": "Filtro",
+        "submission_time": "46038.755520833343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.058053, -11.946666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Laura Zapata",
+        "NOM": "Melanie Palma Arevalo",
+        "edad": 47,
+        "CLA": "Aceptación",
+        "submission_time": "46038.7578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.071481, -12.032299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "NOM": "Angela meneces",
+        "edad": 30,
+        "CLA": "Aceptación",
+        "submission_time": "46038.759236111109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.950605, -12.051633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "NOM": "Estefania servera",
+        "edad": 29,
+        "CLA": "Aceptación",
+        "submission_time": "46038.763622685183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.053436, -12.064805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Aída Ramírez flores",
+        "edad": 45,
+        "CLA": "Aceptación",
+        "submission_time": "46038.763935185183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.952292, -12.203979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Jesica cueva",
+        "NOM": "Milagros vera",
+        "edad": 32,
+        "CLA": "Aceptación",
+        "submission_time": "46038.769444444442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.021759, -12.168225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "NOM": "Alicia Marchan",
+        "edad": 48,
+        "CLA": "Aceptación",
+        "submission_time": "46038.773645833331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.950881, -12.050744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "NOM": "Nicolas Alca Ruiz",
+        "edad": 21,
+        "CLA": "Aceptación",
+        "submission_time": "46038.773935185192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.056871, -11.944687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yovana Milart",
+        "NOM": "Nikole Mina",
+        "edad": 25,
+        "CLA": "Aceptación",
+        "submission_time": "46038.773958333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.140121, -12.057943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Laura Zapata",
+        "NOM": "Erika Benítez García",
+        "edad": 39,
+        "CLA": "Aceptación",
+        "submission_time": "46038.777013888888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.070729, -12.032862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "NOM": "Rosa Magalles",
+        "edad": 38,
+        "CLA": "Filtro",
+        "submission_time": "46038.785358796304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055839, -11.9443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "NOM": "Natali Franco",
+        "edad": 22,
+        "CLA": "Aceptación",
+        "submission_time": "46038.788530092592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.95163, -12.051586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Yolanda Suclly",
+        "NOM": "Abigail Martínez",
+        "edad": 22,
+        "CLA": "Aceptación",
+        "submission_time": "46038.794907407413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.050544, -12.063666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Jesica cueva",
+        "NOM": "Andrea Quintana",
+        "edad": 20,
+        "CLA": "Aceptación",
+        "submission_time": "46038.822013888886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.023293, -12.166409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Laura Zapata",
+        "NOM": "Yovanna vargas",
+        "edad": 34,
+        "CLA": "Aceptación",
+        "submission_time": "46038.825231481482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.073205, -12.032862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Wendy Mesías",
+        "NOM": "Ingrit Martinez",
+        "edad": 48,
+        "CLA": "Aceptación",
+        "submission_time": "46038.841319444437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.951303, -12.051042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Consuelo Díaz",
+        "NOM": "Amalia Rodas Shareva",
+        "edad": 40,
+        "CLA": "Aceptación",
+        "submission_time": "46038.051423611112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.055111, -11.944161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Luz Rugel",
+        "NOM": "Mónica Prudencio Garcia",
+        "edad": 39,
+        "CLA": "Aceptación",
+        "submission_time": "46038.143252314818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.002152, -12.054009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Evelyn Sosa Calderón si",
+        "edad": 38,
+        "CLA": "Aceptación",
+        "submission_time": "46038.547812500001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.953153, -12.204136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Maria",
+        "edad": 45,
+        "CLA": "Aceptación",
+        "submission_time": "46038.644178240742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.047267, -11.971355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Nancy Magán",
+        "NOM": "Alisson tenlo sarco",
+        "edad": 28,
+        "CLA": "Aceptación",
+        "submission_time": "46038.650208333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.966509, -12.144672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Angelica Dominguez",
+        "NOM": "Isela",
+        "edad": 32,
+        "CLA": "Aceptación",
+        "submission_time": "46038.652106481481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.047167, -11.971244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ENC": "Liz Guerra",
+        "NOM": "Rosario Velázquez",
+        "edad": 42,
+        "CLA": "Aceptación",
+        "submission_time": "46038.896180555559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.95337, -12.199416]
+      }
+    }
+  ]
+}
