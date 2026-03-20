@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario Screening</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background-color: #f9f9f9; }
+    h1 { margin-top: 30px; }
+    input[type="text"] {
+      font-size: 28px; text-align: center; padding: 10px;
+      width: 300px; margin: 20px auto; display: block;
+    }
+    button { font-size: 20px; padding: 10px 20px; margin: 10px; cursor: pointer; }
+    button:disabled { background-color: #ccc; cursor: not-allowed; }
+    .resultado { margin-top: 30px; font-size: 40px; font-weight: bold; }
+    .verde { color: green; }
+    .rojo { color: red; }
+    .leyenda { font-size: 22px; margin-top: 10px; font-weight: bold; }
+    .nombre { font-size: 24px; margin-top: 15px; }
+    .icono { font-size: 60px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>BUSCAR DNI</h1>
+  <input type="text" id="dniInput" placeholder="Digite DNI" maxlength="8" oninput="validarDNI()">
+  <button id="verificarBtn" onclick="buscarDNI()" disabled>Verificar</button>
+  <button onclick="limpiarFormulario()">Limpiar</button>
+
+  <div id="resultado" class="resultado"></div>
+  <div id="icono"></div>
+  <div id="leyenda" class="leyenda"></div>
+  <div id="nombre" class="nombre"></div>
+
+  <script>
+    const spreadsheetId = "1tk15K-PL15Xp2RVkGIt4aULGHXZyCT2-"; // ID de tu hoja
+    const apiKey = "AIzaSyASP9nDhMrLFW4PXVTh9IsrICJbJC1Sm5A"; // tu clave activa
+    const range = "PRUEBA!A2:L"; // pestaña PRUEBA, datos desde fila 2 hasta columna L
+
+    function validarDNI() {
+      const dni = document.getElementById("dniInput").value.trim();
+      const boton = document.getElementById("verificarBtn");
+      boton.disabled = !(/^\d{8}$/.test(dni)); // habilita solo si son 8 dígitos
+    }
+
+    async function buscarDNI() {
+      const dni = document.getElementById("dniInput").value.trim();
+      try {
+        const url = `https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}/values/${range}?key=${apiKey}`;
+        const response = await fetch(url);
+        if (!response.ok) throw new Error("No se pudo conectar con la hoja");
+
+        const data = await response.json();
+        const rows = data.values;
+
+        let encontrado = false, resultado = "", leyenda = "", colorClase = "", nombre = "";
+
+        for (let i = 0; i < rows.length; i++) {
+          const fila = rows[i];
+          const dniFila = fila[0];        // Columna A: DNI
+          const nombreFila = fila[6] || ""; // Columna G: Participantes
+          const hoy = fila[9] || "0";       // Columna J: hoy
+          const magrupada2 = fila[11] || ""; // Columna L: Magrupada2
+
+          if (dniFila === dni) {
+            encontrado = true;
+            nombre = nombreFila;
+            const valorHoy = parseInt(hoy);
+
+            if (magrupada2 === "focus/pretest/compra simulada/mercadito") {
+              if (valorHoy > 2) {
+                resultado = "SI"; leyenda = "focus/pretest/compra simulada/mercadito + 2 años"; colorClase = "verde";
+              } else {
+                resultado = "NO"; leyenda = "focus/pretest/compra simulada/mercadito - 2 años"; colorClase = "rojo";
+              }
+            } else if (magrupada2 === "Otros") {
+              if (valorHoy > 6) {
+                resultado = "SI"; leyenda = "Otros + 6 meses"; colorClase = "verde";
+              } else {
+                resultado = "NO"; leyenda = "Otros - 6 meses"; colorClase = "rojo";
+              }
+            }
+            break;
+          }
+        }
+
+        if (!encontrado) {
+          resultado = "SI"; leyenda = "Registrar participante"; colorClase = "verde";
+        }
+
+        mostrarResultado(resultado, leyenda, colorClase, nombre);
+
+      } catch (error) {
+        mostrarResultado("NO", "Error al leer la hoja: " + error.message, "rojo", "");
+      }
+    }
+
+    function mostrarResultado(resultado, leyenda, colorClase, nombre) {
+      document.getElementById("resultado").textContent = resultado;
+      document.getElementById("resultado").className = "resultado " + colorClase;
+      document.getElementById("leyenda").textContent = leyenda;
+      document.getElementById("leyenda").className = "leyenda " + colorClase;
+      document.getElementById("nombre").textContent = nombre || "";
+      document.getElementById("icono").innerHTML =
+        resultado === "SI"
+          ? '<i class="fa-solid fa-circle-check icono verde"></i>'
+          : '<i class="fa-solid fa-circle-xmark icono rojo"></i>';
+    }
+
+    function limpiarFormulario() {
+      document.getElementById("dniInput").value = "";
+      document.getElementById("dniInput").focus(); // cursor vuelve al campo
+      document.getElementById("verificarBtn").disabled = true;
+      document.getElementById("resultado").textContent = "";
+      document.getElementById("icono").innerHTML = "";
+      document.getElementById("leyenda").textContent = "";
+      document.getElementById("nombre").textContent = "";
+    }
+  </script>
+</body>
+</html>
